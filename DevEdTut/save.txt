@@ -1,1 +1,1 @@
-C:/Program Files (x86)/Brackets/Brackets.exe,C:/Program Files (x86)/Google/Chrome/Application/chrome.exe,
+C:/Program Files (x86)/Brackets/Brackets.exe,C:/Program Files (x86)/Google/Chrome/Application/chrome.exe,C:/Program Files (x86)/Document Node/Document Node.exe,C:/Program Files/Sublime Text 3/sublime_text.exe,C:/Program Files/Mozilla Firefox/firefox.exe,C:/Windows/system32/cmd.exe,
